@@ -1,5 +1,4 @@
-#
-# Escriba la función load_input que recibe como parámetro un folder y retorna
+# Esciba la función load_input que recibe como parámetro un folder y retorna
 # una lista de tuplas donde el primer elemento de cada tupla es el nombre del
 # archivo y el segundo es una línea del archivo. La función convierte a tuplas
 # todas las lineas de cada uno de los archivos. La función es genérica y debe
