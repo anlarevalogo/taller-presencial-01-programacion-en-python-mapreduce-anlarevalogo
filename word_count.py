@@ -3,7 +3,6 @@
 # archivo y el segundo es una línea del archivo. La función convierte a tuplas
 # todas las lineas de cada uno de los archivos. La función es genérica y debe
 # leer todos los archivos de folder entregado como parámetro.
-#
 # Por ejemplo:
 #   [
 #     ('text0'.txt', 'Analytics is the discovery, inter ...'),
